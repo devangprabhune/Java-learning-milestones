@@ -1,0 +1,1 @@
+   float total = basic + hra1 + da1 + allow - pf1;
